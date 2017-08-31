@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cyberlimb_fix",
+  "name": "Cyberlimb Fix",
+  "description": "Fixes cyberlimbs causing your iventory to vanish",
+  "version": "0.1",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Crazylemon"],
+  "credits": "Crazylemon",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
